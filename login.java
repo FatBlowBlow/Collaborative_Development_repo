@@ -7,3 +7,5 @@ int j = 100;
 int num4 = 4;//clientB
 
 int num5 = 5;//clientB
+
+int num6 = 66;//clientB
