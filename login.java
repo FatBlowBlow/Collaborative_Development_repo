@@ -10,3 +10,5 @@ int num5 = 5;//clientB
 
 int num6 = 6;//clientA
 
+int num7 = 7;//clientA
+
