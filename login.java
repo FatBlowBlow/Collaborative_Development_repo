@@ -10,3 +10,5 @@ int num5 = 5;//clientB
 
 int num6 = 6;//clientA
 
+double d = 2.0//clientB
+
